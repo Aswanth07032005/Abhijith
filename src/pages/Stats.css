@@ -1,0 +1,28 @@
+.stats-section {
+  padding: 70px 0;
+  background: #f9f9f9;
+}
+
+/* box */
+.stat-box {
+  padding: 25px;
+  transition: 0.3s;
+}
+
+/* number */
+.stat-box h3 {
+  font-size: 2.2rem;
+  font-weight: 600;
+  color: #000;
+}
+
+/* text */
+.stat-box p {
+  color: #555;
+  margin-top: 5px;
+}
+
+/* hover */
+.stat-box:hover {
+  transform: translateY(-8px);
+}
